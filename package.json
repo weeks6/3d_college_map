@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://endem2k.github.io/3d_college_map",
+  "homepage": "https://weeks6.github.io/3d_college_map",
   "dependencies": {
     "@react-three/drei": "^9.66.0",
     "@react-three/fiber": "^8.12.2",
